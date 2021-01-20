@@ -1,2 +1,2 @@
 # BlackJack
-Single Player Blackjack
+Single Player Blackjack built using python
